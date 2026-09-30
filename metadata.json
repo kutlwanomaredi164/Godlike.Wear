@@ -1,0 +1,6 @@
+{
+  "name": "GODLIKE | Luxury Christian Streetwear",
+  "description": "Faith Through Fashion. Premium luxury Christian streetwear designed to express identity, confidence and conviction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
